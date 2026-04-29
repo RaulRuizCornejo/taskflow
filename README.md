@@ -12,4 +12,5 @@ Tecnologías usadas:
   - CSS
   - Tailwind
   - JavaScript
-Creado por: Raúl Ruiz-Cornejo Badia
+
+Creado por: Raúl Ruiz-Cornejo Badia.
